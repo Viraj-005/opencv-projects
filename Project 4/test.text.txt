@@ -1,0 +1,15 @@
+When developing a product, service, or customer experience, using an Agile
+methodology, we usually start with building minimum viable product (MVP).
+
+An MVP is a partially-developed version of a new product that allows a team to
+quickly collect maximum information from users with the least effort and
+investment. This MVP is not the final product; rather, it's a baseline that reflects the
+core functionality, enabling us to learn from user interactions and feedback.
+
+With Agile, we can develop a new product in both an iterative and incremental
+process. Understanding the distinction between these two development methods
+is crucial as it allows teams to align their project strategy with business goals,
+market needs, and user expectations.
+
+To better understand these concepts, let's look at the following examples of how an
+app would be developed using both iterative and incremental development methods.
