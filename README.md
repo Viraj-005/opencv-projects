@@ -1,7 +1,3 @@
-Here’s an updated version of the **README.md** with **Project 1** being mentioned as "This project," as you requested:  
-
----
-
 ## **📌 OpenCV Projects – Computer Vision Applications**  
 
 Welcome to this collection of **OpenCV projects**! 🎯 This repository contains five exciting projects that demonstrate different **computer vision techniques** using OpenCV and Python.  
@@ -88,4 +84,3 @@ This repository is **open-source** and available under the **MIT License**.
 
 ⭐ **If you like this project, don't forget to give it a star!** ⭐  
 
----
