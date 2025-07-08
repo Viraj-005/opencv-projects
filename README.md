@@ -62,12 +62,6 @@ Welcome to this collection of **OpenCV projects**! 🎯 This repository contains
 
 ---
 
-## **📸 Project Screenshots (Optional)**  
-
-🖼️ Add screenshots of each project in action to make the README more visually appealing!  
-
----
-
 ## **🤝 Contributing**  
 
 Want to improve these projects? Contributions are welcome! Feel free to **fork** this repo, make your changes, and submit a **pull request**.  
